@@ -1,0 +1,55 @@
+{
+  "name": "AngelAuraMC",
+  "subtitle": "Hi.",
+  "description": "Pretty simple",
+  "iconURL": "https://i.imgur.com/vS4T3wK.png",
+  "website": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "org.angelauramc.amethyst"
+  ],
+  "headerURL": "https://i.imgur.com/nhHq9ly.png",
+  "apps": [
+    {
+      "name": "Amethyst",
+      "bundleIdentifier": "org.angelauramc.amethyst",
+      "developerName": "AngelAura",
+      "subtitle": "Minecraft",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/5Lz07aZ.png",
+      "tintColor": "#c23c95",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          "https://i.imgur.com/k7OFTql.png"
+        ],
+        "ipad": [
+          "https://i.imgur.com/ZVgtMNo.png"
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://github.com/AngelAuraMC/Amethyst-iOS/actions/runs/18425350962/artifacts/4243598391",
+          "size": 150700000,
+          "version": "Released!",
+          "buildVersion": "RELEASE YAY",
+          "date": "2025-10-14T21:19:00+03:00",
+          "localizedDescription": "Ez",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+
+        ],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Angel Aura Amethyst uses the local network to find and communicate with AltServer and LAN servers.",
+          "NSMicrophoneUsageDescription": "Angel Aura Amethyst uses the microphone to enable support for voice chat mods."
+        }
+      }
+    }
+  ],
+  "news": [
+
+  ]
+}
